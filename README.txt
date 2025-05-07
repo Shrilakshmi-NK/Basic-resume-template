@@ -10,4 +10,12 @@ A clean and responsive resume website template created using HTML, CSS, SCSS, an
 - JavaScript support for dynamic effects
 - Easy to customize with your own content
 
-
+## Folder Structure
+.
+├── assets/ # Stylesheets and scripts
+├── images/ # Profile and portfolio images
+├── elements.html # Section-based layout file
+├── generic.html # Sample additional layout
+├── index.html # Main landing page
+├── tempCodeRunnerFile.exe
+└── README.txt / LICENSE.txt
